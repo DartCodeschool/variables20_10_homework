@@ -1,0 +1,29 @@
+Task 21:
+Declare a variable named hasPets of type bool and assign it either true or false based on whether you have any pets or not.
+
+Task 22:
+Create a variable named isMorning of type bool and assign it either true or false depending on the time of day.
+
+Task 23:
+Declare a variable named isStudent of type bool and assign it either true or false based on whether you are currently a student or not.
+
+Task 24:
+Create a variable named isHungry of type bool and assign it either true or false based on whether you are feeling hungry or not.
+
+Task 25:
+Declare a variable named isWorking of type bool and assign it either true or false based on whether you are currently working or not.
+
+Task 26:
+Create a variable named isTall of type bool and assign it either true or false based on whether you consider yourself tall or not.
+
+Task 27:
+Declare a variable named isVacation of type bool and assign it either true or false based on whether you are currently on vacation or not.
+
+Task 28:
+Create a variable named isWeekday of type bool and assign it either true or false based on whether it is a weekday or not.
+
+Task 29:
+Declare a variable named isMarried of type bool and assign it either true or false based on your marital status.
+
+Task 30:
+Create a variable named isOnline of type bool and assign it either true or false based on whether you are currently connected to the internet.
